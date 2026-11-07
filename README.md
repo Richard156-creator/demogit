@@ -1,4 +1,4 @@
 # demogit
 this is my first git repo
 <br>
-Author-Richard
+Author-Richard(this is me)
